@@ -21,3 +21,8 @@
 
 
 ### Screenshots
+<div style="float: left;padding: 5px;margin: 5px">
+  <img src="screenshots/Signup.jpg" width="200">
+  <img src="screenshots/history.jpg" width="200">
+</div>
+
