@@ -21,8 +21,3 @@
 
 
 ### Screenshots
-
-<div style="float: left;padding: 5px;margin: 5px">
-<img src= "![Sign up](https://github.com/user-attachments/assets/67ded446-202e-4c8a-a0ee-0bfd82c7c24b)" width="200">
-<img src= "![1](https://github.com/user-attachments/assets/c3f97543-a712-46a1-b273-0366883a6a4c)" width="200">
-</div>
